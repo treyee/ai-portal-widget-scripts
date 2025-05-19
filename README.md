@@ -1,6 +1,6 @@
 # ai-portal-widget-scripts
 
-Widget Scripts to embed Treyee AI Portal Assistants in Web Sites
+Widget Scripts to embed [Treyee AI Portal](https://treyee.ai/ecosystem/components/ai-portal) Assistants in Web Sites
 
 ## Getting Started
 
