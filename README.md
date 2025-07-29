@@ -82,7 +82,7 @@ Similar to the "Chatbox" script and will render the chatbot itself in the iframe
 
 ```html
 <iframe
-    src="https://www.tixaeagents.ai/app/na/render/m38bw8umb0rujkzz/iframe"
+    src="https://portal.treyee.ai/app/na/render/m38bw8umb0rujkzz/iframe"
     style="width: 100%; height: 100vh;"
     frameborder="0">
 </iframe>
